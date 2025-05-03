@@ -1,5 +1,5 @@
-let firstName = "ab";
-let last_name = "reddy";
+const firstName = "ab";
+const last_name = "reddy";
 let address = "Hyderabad";
 let firststreet = address;
 console.log(firstName); 
